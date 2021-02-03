@@ -4,7 +4,14 @@ h1 {
 h2 {
   font-family: cursive;
 }
-
+h3 {
+  font-family: monospace
+    font-size: 4em; /*16px=1em*/
+    color: red
+}
+h4 {
+  font-family: fantasy;
+}
 
 /* Flexible images */
 
